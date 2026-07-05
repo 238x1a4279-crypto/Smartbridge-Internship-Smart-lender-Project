@@ -84,12 +84,6 @@ http://127.0.0.1:5000
 
 ---
 
-📸 Application Screenshot
-
-Add screenshots of your application here to showcase the user interface and prediction results.
-
----
-
 🎓 Internship
 
 This project was successfully developed as part of the SmartBridge Internship Program, demonstrating the practical implementation of Machine Learning and Flask in building a Loan Approval Prediction System.
